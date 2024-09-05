@@ -2,68 +2,7 @@
 ## Teste prático para Desenvolvedor Full Stack
 
 ## Instruções
-Crie um repositório em sua conta GitHub e faça seu teste. <br>
-A avaliação do teste será realizada com base no que for entregue, faça o melhor que puder!! 😉 <br>
-Escolha as ferramentas que possui mais conhecimento ou afinidade.
-
-> **ENTREGA:_** Você terá `uma semana` para realizar seu teste e nos enviar para avaliação.
-
-## Instruções
-Crie um repositório em sua conta GitHub e faça seu teste. <br>
-A avaliação do teste será realizada com base no que for entregue, faça o melhor que puder!! 😉 <br>
-Escolha as ferramentas que possui mais conhecimento ou afinidade.
-
-> **ENTREGA:_** Você terá `uma semana` para realizar seu teste e nos enviar para avaliação.
-# PSO Engenharia Elétrica
-## Teste prático para Desenvolvedor Full Stack
-
-## Instruções
-Crie um repositório em sua conta GitHub e faça seu teste. <br>
-A avaliação do teste será realizada com base no que for entregue, faça o melhor que puder!! 😉 <br>
-Escolha as ferramentas que possui mais conhecimento ou afinidade.
-
-> **ENTREGA:_** Você terá `uma semana` para realizar seu teste e nos enviar para avaliação.
-# PSO Engenharia Elétrica
-## Teste prático para Desenvolvedor Full Stack
-
-## Instruções
-Crie um repositório em sua conta GitHub e faça seu teste. <br>
-A avaliação do teste será realizada com base no que for entregue, faça o melhor que puder!! 😉 <br>
-Escolha as ferramentas que possui mais conhecimento ou afinidade.
-
-> **ENTREGA:_** Você terá `uma semana` para realizar seu teste e nos enviar para avaliação.
-# PSO Engenharia Elétrica
-## Teste prático para Desenvolvedor Full Stack
-
-## Instruções
-Crie um repositório em sua conta GitHub e faça seu teste. <br>
-A avaliação do teste será realizada com base no que for entregue, faça o melhor que puder!! 😉 <br>
-Escolha as ferramentas que possui mais conhecimento ou afinidade.
-
-> **ENTREGA:_** Você terá `uma semana` para realizar seu teste e nos enviar para avaliação.
-# PSO Engenharia Elétrica
-## Teste prático para Desenvolvedor Full Stack
-
-## Instruções
-Crie um repositório em sua conta GitHub e faça seu teste. <br>
-A avaliação do teste será realizada com base no que for entregue, faça o melhor que puder!! 😉 <br>
-Escolha as ferramentas que possui mais conhecimento ou afinidade.
-
-> **ENTREGA:_** Você terá `uma semana` para realizar seu teste e nos enviar para avaliação.
-# PSO Engenharia Elétrica
-## Teste prático para Desenvolvedor Full Stack
-
-## Instruções
-Crie um repositório em sua conta GitHub e faça seu teste. <br>
-A avaliação do teste será realizada com base no que for entregue, faça o melhor que puder!! 😉 <br>
-Escolha as ferramentas que possui mais conhecimento ou afinidade.
-
-> **ENTREGA:_** Você terá `uma semana` para realizar seu teste e nos enviar para avaliação.
-# PSO Engenharia Elétrica
-## Teste prático para Desenvolvedor Full Stack
-
-## Instruções
-Crie um repositório em sua conta GitHub e faça seu teste. <br>
+Crie um repositório público em sua conta GitHub e faça seu teste. <br>
 A avaliação do teste será realizada com base no que for entregue, faça o melhor que puder!! 😉 <br>
 Escolha as ferramentas que possui mais conhecimento ou afinidade.
 
@@ -72,6 +11,7 @@ Escolha as ferramentas que possui mais conhecimento ou afinidade.
 **Descrição do Projeto:**
 
 Desenvolver uma aplicação de gerenciamento de tarefas (To-Do List) que permite aos usuários adicionar, visualizar e remover tarefas. A aplicação deve ter uma interface de usuário para interagir com a lista de tarefas e um backend que armazena e gerencia essas tarefas em um banco de dados MySQL.
+
 #### Parte 1: Frontend
 
 **Tecnologia:** React ou Angular
@@ -130,9 +70,17 @@ Desenvolver uma aplicação de gerenciamento de tarefas (To-Do List) que permite
    - **Frontend (React ou Angular)**: Estrutura do projeto e código fonte.
    - **Backend (Node.js)**: Código fonte da API, configuração do servidor.
 
-2. **Instruções de Configuração**:
-   - **Docker**: Configuração e implementação em Docker para executar as aplicações.
-
-3. **Teste**:
+2. **Teste**:
    - Certifique-se de que a aplicação funcione corretamente e que todos os requisitos sejam atendidos.
-Esse teste avalia não apenas a capacidade de trabalhar com as tecnologias especificadas, mas também a habilidade em integrar frontend e backend com um banco de dados relacional.
+Esse teste avalia não apenas a capacidade de trabalhar com as tecnologias especificadas, mas também a habilidade em integrar frontend e backend com um banco de dados 
+relacional.
+
+2. ## Envio do teste
+   - Ao finalizar, deve ser ser enviado um email para o contato `adminti@psoengenharia.com.br`
+
+   - O assunto do email deve conter seu nome e vaga (Ex: `Jhon Doe - Desenvolvedor FullStack`)
+<br/>
+   - Envie o link do repositório `PÚBLICO` para que seja feita a avaliação.
+
+### Não se esqueça de instruções de como rodar seu teste!!!
+## Boa sorte!
